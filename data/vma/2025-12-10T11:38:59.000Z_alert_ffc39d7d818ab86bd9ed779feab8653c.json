@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-10T12:38:59+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20251210015937T",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2025-12-10T01:59:37+01:00",
+      "status": "Test",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20251210014937T,2025-12-10T01:49:37+01:00",
+      "note": null,
+      "incidents": "SRVMA20251210014937T",
+      "info": null
+    }
+  ]
+}
