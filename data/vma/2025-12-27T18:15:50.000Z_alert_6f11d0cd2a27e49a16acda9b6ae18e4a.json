@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-12-27T19:15:50+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20251227191531I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2025-12-27T19:15:31+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20251227191531I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-03T19:15:31+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i norra Dalarnas, Gävleborgs, Västernorrlands och södra Jämtlands län.\r\n\r\nPga stora mängder träd och i vissa fall elledningar som faller över vägarna \r\n\r\nuppmanar Trafikverket allmänheten att inte bege sig ut i vägtrafiken pga uppenbar fara.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Dalarna, P4 Gävleborg, P4 Jämtland eller P4 Västernorrland.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2025-12-27 19:15:37"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Dalarnas län, Gävleborgs län, Jämtlands län, Västernorrlands län",
+              "geocode": [
+                {
+                  "valueName": "Län",
+                  "value": "20"
+                },
+                {
+                  "valueName": "Län",
+                  "value": "21"
+                },
+                {
+                  "valueName": "Län",
+                  "value": "22"
+                },
+                {
+                  "valueName": "Län",
+                  "value": "23"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
