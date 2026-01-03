@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-01-03T02:06:09+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260103015134I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-01-03T01:51:34+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260103015134I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-10T01:51:34+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Högsby, Mönsterås och Oskarshamns kommun, Kalmar län.\r\n\r\nDet är långa köer på E22 på grund av snöoväder. Räddningstjänsten jobbar med att lösa köbildningen. Preliminär prognos är lördag förmiddag. \r\n\r\nAllmänheten uppmanas att inte ge sig ut på vägarna. Vid behov av hjälp påkalla uppmärksamhet från räddningstjänstens personal eller ring 112 vid akut behov.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Kalmar.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-01-03 01:51:40"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Högsby kommun, Mönsterås kommun, Oskarshamns kommun (Kalmar län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "0821"
+                },
+                {
+                  "valueName": "Kommun",
+                  "value": "0861"
+                },
+                {
+                  "valueName": "Kommun",
+                  "value": "0882"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-10T01:51:34+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Högsby, Mönsterås and Oskarshamn Municipality, Kalmar County.\n\nThere are long queues on the E22 due to snowstorms. The emergency services are working to solve the queues. Preliminary forecast is Saturday morning. \n\nThe public is urged not to take to the roads. If help is needed, call for the attention of emergency service personnel or call 112 in case of emergency.\n\nFor more information, listen to Sveriges Radio P4 Kalmar.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-01-03 02:05:59"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Högsby kommun, Mönsterås kommun, Oskarshamns kommun (Kalmar län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "0821"
+                },
+                {
+                  "valueName": "Kommun",
+                  "value": "0861"
+                },
+                {
+                  "valueName": "Kommun",
+                  "value": "0882"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
