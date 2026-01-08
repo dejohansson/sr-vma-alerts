@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-01-08T11:05:27+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260108110504I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-01-08T11:05:04+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260108110504I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-15T11:05:04+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Det här är sändningsledningen på Sveriges Radio med ett viktigt meddelande till allmänheten i Västernorrlands län. Med anledning av snöovädret och röd varning från SMHI med mycket besvärliga trafikförhållanden i kustområdet vid Härnösand, Kramfors och Örnsköldsvik uppmanas trafikanter att inte ge sig ut i trafiken. Risken att bli stillastående är mycket hög. Trafikanter och resenärer uppmanas att ta del av lokala väderprognoser och läget i trafiken för både väg och järnväg i Västernorrland.\r\n\r\nRöd vädervarning från SMHI\r\n\r\n\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Västernorrland.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-01-08 11:05:13"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Västernorrlands län",
+              "geocode": [
+                {
+                  "valueName": "Län",
+                  "value": "22"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
