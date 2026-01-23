@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-01-23T13:51:25+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260123134241I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-01-23T13:42:41+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260123134241I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-30T13:42:41+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Rättvik i Dalarnas län.\r\n\r\nEtt farligt föremål har hittats i centrala Rättvik. \r\n\r\nPolisen uppmanar boende i området att hålla sig inomhus och borta från fönster. Polisen önskar att personer inte tar sig till centrala Rättvik i onödan och respekterar avspärrningar.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Dalarna.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-01-23 13:42:45"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Dalarnas län",
+              "geocode": [
+                {
+                  "valueName": "Län",
+                  "value": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-01-30T13:42:41+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Rättvik in Dalarna County.\n\nA dangerous object has been found in central Rättvik. \n\nPolice are urging residents in the area to stay indoors and away from windows. The police want people not to come to central Rättvik unnecessarily and respect the barriers.\n\nFor more information listen to Sveriges Radio P4 Dalarna.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-01-23 13:51:18"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Dalarnas län",
+              "geocode": [
+                {
+                  "valueName": "Län",
+                  "value": "20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
