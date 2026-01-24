@@ -11,6 +11,14 @@ for jsonFile in "$projectRoot/data/vma/"*.json; do
     datetime=$(echo "$filename" | cut -d '_' -f 1)
     type=$(echo "$filename" | cut -d '_' -f 2 )
     hash=$(echo "$filename" | cut -d '_' -f 3 | cut -d '.' -f 1)
+    
+    if [ "$type" = "alert" ]; then
+        hasAlertMsgType=$(jq '[.alerts[]? | select(.msgType == "Alert")] | length > 0' "$jsonFile")
+        if [ "$hasAlertMsgType" = "false" ]; then
+            type="info"
+        fi
+    fi
+    
     echo "  { datetime: \"$datetime\", type: \"$type\", hash: \"$hash\" }," >> "$dataFilePath"
 done
 echo "];" >> "$dataFilePath"
