@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-02-07T21:19:24+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260207210534I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-02-07T21:05:34+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260207210534I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-02-14T21:05:34+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Jägersro i Malmö kommun, Skåne län.\r\n\r\nDet brinner i industribyggnad, med brandrök som sprider sig mot centrala Malmö.\r\n\r\nRäddningsledaren uppmanar personer i området som upplever obehag att gå inomhus och stänga dörrar, fönster och ventilation.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-02-07 21:05:37"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-02-14T21:05:34+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Jägersro in Malmö Municipality, Skåne County.\n\nThere is a fire in an industrial building, with smoke spreading towards central Malmö.\n\nThe incident commander urges people in the area who experience discomfort going indoors and close doors and windows, and shut off ventilation.\n\nFor more information listen to Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-02-07 21:19:18"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
