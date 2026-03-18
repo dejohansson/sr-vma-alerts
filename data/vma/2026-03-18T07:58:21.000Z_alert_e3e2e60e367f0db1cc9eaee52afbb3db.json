@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-18T08:58:21+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260318025527I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-03-18T02:55:27+01:00",
+      "status": "Actual",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20260318020714I,2026-03-18T02:07:14+01:00",
+      "note": null,
+      "incidents": "SRVMA20260318020714I",
+      "info": null
+    }
+  ]
+}
