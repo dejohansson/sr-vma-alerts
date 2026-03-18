@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-03-18T02:21:34+01:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260318020714I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-03-18T02:07:14+01:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260318020714I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-03-25T02:07:14+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Thoméegränd i Östersunds kommun, Jämtlands län.\r\n\r\nDet brinner just nu i ett garage vid Thoméegränd med kraftig rökutveckling till följd.\r\n\r\nRäddningsledaren uppmanar alla i området att gå inomhus och stänga dörrar, fönster och ventilation.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Jämtland.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-03-18 02:07:19"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Östersunds kommun (Jämtlands län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "2380"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-03-25T02:07:14+01:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Thoméegränd in Östersund Municipality, Jämtland County.\n\nThere is currently a fire in a garage at Thoméegränd causing thick smoke. as a result.\n\nThe incident commander urges everyone in the area to go indoors and close doors and windows, and shut off ventilation.\n\nFor more information listen to Sveriges Radio P4 Jämtland.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://www.sverigesradio.se/artikel/vma-viktigt-meddelande-till-allmanheten",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-03-18 02:21:27"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Östersunds kommun (Jämtlands län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "2380"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
