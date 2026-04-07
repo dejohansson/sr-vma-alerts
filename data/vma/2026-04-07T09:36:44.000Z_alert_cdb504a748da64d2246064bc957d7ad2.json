@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-04-07T11:36:44+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260407111152I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-04-07T11:11:52+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260407111152I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-04-14T11:11:52+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Skeppsbron i Malmö i Malmö kommun, Skåne län.\r\n\r\nEtt misstänkt farligt föremål har hittats i korsningen Skeppsbron/Carlsgatan. Området mellan Jörgen Kocksgatan och Neptunigatan har spärrats av.\r\n\r\nPolisen uppmanar boende i området att hålla sig inomhus och borta från fönster.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-04-07 11:11:55"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-04-14T11:11:52+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Skeppsbron in Malmö in Malmö Municipality, Skåne County.\n\nA suspicious object has been found at the intersection of Skeppsbron and Carlsgatan. The area between Jörgen Kocksgatan and Neptunigatan has been cordoned off.\n\nPolice are urging residents in the area to stay indoors and away from windows.\n\nFor more information listen to Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-04-07 11:36:38"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
