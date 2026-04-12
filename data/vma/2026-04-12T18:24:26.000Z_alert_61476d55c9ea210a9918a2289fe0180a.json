@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-04-12T20:24:26+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260412142107I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-04-12T14:21:07+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260412142107I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-04-19T14:21:07+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Hemmanet i Sundsvalls kommun, Västernorrlands län.\r\n\r\nDet brinner i ett flerfamiljshus med kraftig rökutveckling.\r\n\r\nRäddningsledaren uppmanar alla i området att gå inomhus och stänga dörrar, fönster och ventilation.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Västernorrland.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-04-12 14:21:18"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Sundsvalls kommun (Västernorrlands län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "2281"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
