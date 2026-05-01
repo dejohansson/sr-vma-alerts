@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-05-01T13:36:41+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260501132159I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-05-01T13:21:59+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260501132159I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-05-08T13:21:59+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Malmö i Malmö kommun, Skåne län.\r\n\r\nEtt misstänkt farligt föremål har hittats på Amiralsgatan i Centrala Malmö. Flera angränsande gator har spärrats av.\r\n\r\nPolisen uppmanar boende i området att hålla sig inomhus och borta från fönster.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-05-01 13:22:07"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-05-08T13:21:59+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Malmö in Malmö Municipality, Skåne County.\n\nA suspicious object has been found on Amiralsgatan in central Malmö. Several adjoining streets have been cordoned off.\n\nPolice are urging residents in the area to stay indoors and away from windows.\n\nFor more information listen to Sveriges Radio P4 Malmöhus.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-05-01 13:36:35"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Malmö kommun (Skåne län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
