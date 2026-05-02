@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-05-02T02:04:10+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260502020353I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-05-02T02:03:53+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260502020353I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-05-09T02:03:53+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Uddevalla och Vänersborg i Västra Götalands län.\r\n\r\nMisstänkta farliga föremål har hittats på Kyrkogatan 5 i Vänersborg samt Sunnanvindsvägen 1 i Uddevalla. Områdena har spärrats av.\r\n\r\nPolisen uppmanar boende i områdena att hålla sig inomhus och borta från fönster samt respektera avspärrningar.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Väst.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-05-02 02:03:55"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Västra Götalands län",
+              "geocode": [
+                {
+                  "valueName": "Län",
+                  "value": "14"
+                },
+                {
+                  "valueName": "Län",
+                  "value": "14"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "SRCAP20260501142348I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-05-01T14:23:48+02:00",
+      "status": "Actual",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20260501132159I,2026-05-01T13:21:59+02:00",
+      "note": null,
+      "incidents": "SRVMA20260501132159I",
+      "info": null
+    }
+  ]
+}
