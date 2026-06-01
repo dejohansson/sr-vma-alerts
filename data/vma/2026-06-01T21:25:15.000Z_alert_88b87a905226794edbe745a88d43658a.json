@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-06-01T23:25:15+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260601171912I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-06-01T17:19:12+02:00",
+      "status": "Actual",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20260601131601I,2026-06-01T13:16:01+02:00",
+      "note": null,
+      "incidents": "SRVMA20260601131601I",
+      "info": null
+    },
+    {
+      "identifier": "SRCAP20260601150604E",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-06-01T15:06:04+02:00",
+      "status": "Exercise",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20260601140005E,2026-06-01T14:00:05+02:00",
+      "note": null,
+      "incidents": "SRVMA20260601140005E",
+      "info": null
+    }
+  ]
+}
