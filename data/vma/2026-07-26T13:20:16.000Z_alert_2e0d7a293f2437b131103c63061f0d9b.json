@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-07-26T15:20:16+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260726150219I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-07-26T15:02:19+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260726150219I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-08-02T15:02:19+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Färjegårdarna i Borlänge kommun, Dalarnas län.\r\n\r\nDet brinner kraftigt vid en avfallsanläggning med kraftig rökutveckling som följd.\r\n\r\nRäddningsledaren uppmanar alla att hålla sig borta från området och vid behov gå inomhus och stänga dörrar, fönster och ventilation.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Dalarna.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-07-26 15:02:25"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Borlänge kommun (Dalarnas län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "2081"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-08-02T15:02:19+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Färjegårdarna in Borlänge Municipality, Dalarna County.\n\nThere is a heavy fire at a waste facility causing thick smoke.\n\nThe incident commander urges everyone to stay away from the area and, if necessary, go indoors and close doors and windows, and shut off ventilation.\n\nFor more information listen to Sveriges Radio P4 Dalarna.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-07-26 15:20:10"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Borlänge kommun (Dalarnas län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "2081"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
