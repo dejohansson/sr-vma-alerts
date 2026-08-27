@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-08-27T21:29:22+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260827211643I",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-08-27T21:16:43+02:00",
+      "status": "Actual",
+      "msgType": "Alert",
+      "scope": "Public",
+      "references": null,
+      "note": null,
+      "incidents": "SRVMA20260827211643I",
+      "info": [
+        {
+          "language": "sv-SE",
+          "category": [
+            "Safety"
+          ],
+          "event": "Viktigt meddelande till allmänheten (VMA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-09-03T21:16:43+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Viktigt meddelande till allmänheten i Gamlestaden och Backeområdet i Göteborgs kommun, Västra Götalands län.\r\n\r\nPå grund av kraftig rökutveckling till följd av en industribrand så\r\n\r\nuppmanar räddningsledaren alla i området att gå inomhus och stänga dörrar, fönster och ventilation.\r\n\r\nFör mer information lyssna på Sveriges Radio P4 Göteborg.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-08-27 21:16:51"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Göteborgs kommun (Västra Götalands län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1480"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "en-US",
+          "category": [
+            "Safety"
+          ],
+          "event": "Important Public Announcement (IPA)",
+          "urgency": "Immediate",
+          "severity": "Severe",
+          "certainty": "Observed",
+          "expires": "2026-09-03T21:16:43+02:00",
+          "senderName": "Sveriges Radio",
+          "description": "Important public announcement for Gamlestaden och Backaområdet in Göteborg Municipality, Västra Götaland County.\n\nDue to heavy smoke development as a result of an industrial fire,\n\nThe incident commander urges everyone in the area to go indoors and close doors, windows and ventilation.\n\nFor more information listen to Sveriges Radio P4 Göteborg.",
+          "instruction": null,
+          "responseType": null,
+          "web": "https://om.sverigesradio.se/vma",
+          "parameters": [
+            {
+              "valueName": "Created",
+              "value": "2026-08-27 21:29:16"
+            }
+          ],
+          "area": [
+            {
+              "areaDesc": "Göteborgs kommun (Västra Götalands län)",
+              "geocode": [
+                {
+                  "valueName": "Kommun",
+                  "value": "1480"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
