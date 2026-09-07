@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-09-07T15:05:11+02:00",
+  "alerts": [
+    {
+      "identifier": "SRCAP20260907150504E",
+      "sender": "https://vmaapi.sr.se",
+      "sent": "2026-09-07T15:05:04+02:00",
+      "status": "Exercise",
+      "msgType": "Cancel",
+      "scope": "Public",
+      "references": "https://vmaapi.sr.se,SRCAP20260907140007E,2026-09-07T14:00:07+02:00",
+      "note": null,
+      "incidents": "SRVMA20260907140007E",
+      "info": null
+    }
+  ]
+}
